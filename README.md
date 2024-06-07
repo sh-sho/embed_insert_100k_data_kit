@@ -1,6 +1,6 @@
 # embed_insert_data_100k
 ## 概要
-このコードkitは大規模データをOCI Generative AIを使い別の仮想マシン上でベクトル化して、そのベクトルデータをOracle Database 23aiに保存するコードです。
+このコードkitは大規模データをOCI Generative AIを使い別の仮想マシン上でベクトル化して、そのベクトルデータをOracle Database 23aiに保存するコードです。[こちら](https://qiita.com/s_obata/items/ed6d4593b3f26243f230)のQiitaで使用しているコードです。
 
 ## アーキテクチャ
 OCI上で以下のようなアーキテクチャを作成します。
